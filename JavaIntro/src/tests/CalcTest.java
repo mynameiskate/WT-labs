@@ -7,7 +7,7 @@ import static org.junit.Assert.assertEquals;
 public class CalcTest {
 
     @Test
-    public void testCompute() {
+    public void testCalculations() {
         CalcTask task = new CalcTask();
         assertEquals(1.5, task.calculate(1,-1),0.001);
     }
