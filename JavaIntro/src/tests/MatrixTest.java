@@ -2,7 +2,6 @@ package tests;
 
 import org.junit.Test;
 import tasks.MatrixTask;
-
 import static org.junit.Assert.assertArrayEquals;
 
 public class MatrixTest {
